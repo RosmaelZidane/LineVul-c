@@ -1,0 +1,16 @@
+data/big-vul_dataset/processed_data.csv
+data/big-vul_dataset/processed_data1.csv
+data/big-vul_dataset/projectkb_input_training_full.csv
+data/big-vul_dataset/test.csv
+data/big-vul_dataset/train.csv
+data/big-vul_dataset/val.csv
+linevul/saved_models/checkpoint-best-f1/12heads_linevul_model1.bin
+linevul/saved_models/checkpoint-best-f1/model.bin
+linevul/saved_models/checkpoint-best-f1/samplemodel.bin
+
+linevul/__pycache__
+
+linevul/eval_precision_recall_model.bin.pdf
+linevul/sampletrain.log
+linevul/test_precision_recall_model.bin.pdf
+linevul/train.log
